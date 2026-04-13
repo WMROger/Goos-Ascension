@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 133cff43f3468d24ab65f71b35b3496a, type: 3}
+  m_Name: NPCDialogue
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  npcName: Mysterious Guy
+  npcPortrait: {fileID: -855298285791758126, guid: 90eb10822bf351a4c90801e70300d82d, type: 3}
+  dialogueLines:
+  - "\u2026Oh. You\u2019re still alive?"
+  - "I didn\u2019t think anyone survived what happened here\u2026 Guess I was wrong."
+  - "Listen\u2014there\u2019s no time to explain everything. Take this. It\u2019s
+    a code fragment\u2026 not much to look at, but it can change you. Enhance you."
+  - "With it, you\u2019ll be able to adapt\u2026 transform\u2026 fight back."
+  - "Out there? It\u2019s not safe. Not anymore. Whatever\u2019s taken over this
+    planet\u2026 it won\u2019t hesitate."
+  - "So if you\u2019re going to survive\u2014if we\u2019re going to survive\u2014you\u2019ll
+    need every advantage you can get."
+  - "Take it. Use it. And don\u2019t waste the second chance you\u2019ve been given."
+  autoProgressLines: 0100
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voiceSound: {fileID: 8300000, guid: 16d0b26fa682c474994e66f219568be4, type: 3}
+  voicePitch: 1

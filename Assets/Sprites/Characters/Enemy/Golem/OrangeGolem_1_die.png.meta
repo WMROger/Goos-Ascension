@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+guid: 107af39282353fb4888d859e8097a679
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7919522357930227837
+    second: OrangeGolem_1_die_0
+  - first:
+      213: -1181888836432545971
+    second: OrangeGolem_1_die_1
+  - first:
+      213: 8431259956281199914
+    second: OrangeGolem_1_die_2
+  - first:
+      213: -8820024713849497671
+    second: OrangeGolem_1_die_3
+  - first:
+      213: 4370364889184273269
+    second: OrangeGolem_1_die_4
+  - first:
+      213: 3391980690402571340
+    second: OrangeGolem_1_die_5
+  - first:
+      213: -5998052262381229299
+    second: OrangeGolem_1_die_6
+  - first:
+      213: -8546257222100137201
+    second: OrangeGolem_1_die_7
+  - first:
+      213: 866307957345880956
+    second: OrangeGolem_1_die_8
+  - first:
+      213: -5533504744820440437
+    second: OrangeGolem_1_die_9
+  - first:
+      213: 5401572855230024000
+    second: OrangeGolem_1_die_10
+  - first:
+      213: -640003336049855555
+    second: OrangeGolem_1_die_11
+  - first:
+      213: -8854499899620544992
+    second: OrangeGolem_1_die_12
+  - first:
+      213: -3005402563121467546
+    second: OrangeGolem_1_die_13
+  - first:
+      213: 4936607202121199511
+    second: OrangeGolem_1_die_14
+  - first:
+      213: -3397014053643076436
+    second: OrangeGolem_1_die_15
+  - first:
+      213: -2975325414553616398
+    second: OrangeGolem_1_die_16
+  - first:
+      213: -4192148912881497114
+    second: OrangeGolem_1_die_17
+  - first:
+      213: -4234515250787915069
+    second: OrangeGolem_1_die_18
+  - first:
+      213: -5203166790665331294
+    second: OrangeGolem_1_die_19
+  - first:
+      213: -9110587886264578003
+    second: OrangeGolem_1_die_20
+  - first:
+      213: 688104359014169929
+    second: OrangeGolem_1_die_21
+  - first:
+      213: -8908410502795899017
+    second: OrangeGolem_1_die_22
+  - first:
+      213: 2909431018095157080
+    second: OrangeGolem_1_die_23
+  - first:
+      213: -4979257638380335606
+    second: OrangeGolem_1_die_24
+  - first:
+      213: -8898161073210024484
+    second: OrangeGolem_1_die_25
+  - first:
+      213: -1408511465274206318
+    second: OrangeGolem_1_die_26
+  - first:
+      213: -3365934431660480071
+    second: OrangeGolem_1_die_27
+  - first:
+      213: 7345262919739813101
+    second: OrangeGolem_1_die_28
+  - first:
+      213: 3878360510191664246
+    second: OrangeGolem_1_die_29
+  - first:
+      213: -6854183769715123147
+    second: OrangeGolem_1_die_30
+  - first:
+      213: 2050990738419091584
+    second: OrangeGolem_1_die_31
+  - first:
+      213: -4647144376443823051
+    second: OrangeGolem_1_die_32
+  - first:
+      213: -5046442131644814532
+    second: OrangeGolem_1_die_33
+  - first:
+      213: -7504601181301121997
+    second: OrangeGolem_1_die_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OrangeGolem_1_die_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78f13700abc7ed60800000000000000
+      internalID: 7919522357930227837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeGolem_1_die_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47307c7d56199fe0800000000000000
+      internalID: -1181888836432545971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeGolem_1_die_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dcd1f624ad10570800000000000000
+      internalID: 8431259956281199914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeGolem_1_die_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5730ba626b7a6ac30800000000000000
+      internalID: 4370364889184273269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeGolem_1_die_6
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 0
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0be9841f33a2cca0800000000000000
+      internalID: -5998052262381229299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeGolem_1_die_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bca952658956980800000000000000
+      internalID: -8546257222100137201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeGolem_1_die_9
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 0
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b820a0a90ca0533b0800000000000000
+      internalID: -5533504744820440437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeGolem_1_die_22
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 0
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fcd73b8d7fe5480800000000000000
+      internalID: -8908410502795899017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeGolem_1_die_24
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 0
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e80332f8f16eab0800000000000000
+      internalID: -4979257638380335606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeGolem_1_die_26
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 0
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2971442f846f37ce0800000000000000
+      internalID: -1408511465274206318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeGolem_1_die_30
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 0
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cd1ec2d2c01e0a0800000000000000
+      internalID: -6854183769715123147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeGolem_1_die_34
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 0
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cd1979cfc4ad790800000000000000
+      internalID: -7504601181301121997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a8ac28da2bfe66f43869a6f167e98ea6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OrangeGolem_1_die_0: 7919522357930227837
+      OrangeGolem_1_die_1: -1181888836432545971
+      OrangeGolem_1_die_10: 5401572855230024000
+      OrangeGolem_1_die_11: -640003336049855555
+      OrangeGolem_1_die_12: -8854499899620544992
+      OrangeGolem_1_die_13: -3005402563121467546
+      OrangeGolem_1_die_14: 4936607202121199511
+      OrangeGolem_1_die_15: -3397014053643076436
+      OrangeGolem_1_die_16: -2975325414553616398
+      OrangeGolem_1_die_17: -4192148912881497114
+      OrangeGolem_1_die_18: -4234515250787915069
+      OrangeGolem_1_die_19: -5203166790665331294
+      OrangeGolem_1_die_2: 8431259956281199914
+      OrangeGolem_1_die_20: -9110587886264578003
+      OrangeGolem_1_die_21: 688104359014169929
+      OrangeGolem_1_die_22: -8908410502795899017
+      OrangeGolem_1_die_23: 2909431018095157080
+      OrangeGolem_1_die_24: -4979257638380335606
+      OrangeGolem_1_die_25: -8898161073210024484
+      OrangeGolem_1_die_26: -1408511465274206318
+      OrangeGolem_1_die_27: -3365934431660480071
+      OrangeGolem_1_die_28: 7345262919739813101
+      OrangeGolem_1_die_29: 3878360510191664246
+      OrangeGolem_1_die_3: -8820024713849497671
+      OrangeGolem_1_die_30: -6854183769715123147
+      OrangeGolem_1_die_31: 2050990738419091584
+      OrangeGolem_1_die_32: -4647144376443823051
+      OrangeGolem_1_die_33: -5046442131644814532
+      OrangeGolem_1_die_34: -7504601181301121997
+      OrangeGolem_1_die_4: 4370364889184273269
+      OrangeGolem_1_die_5: 3391980690402571340
+      OrangeGolem_1_die_6: -5998052262381229299
+      OrangeGolem_1_die_7: -8546257222100137201
+      OrangeGolem_1_die_8: 866307957345880956
+      OrangeGolem_1_die_9: -5533504744820440437
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

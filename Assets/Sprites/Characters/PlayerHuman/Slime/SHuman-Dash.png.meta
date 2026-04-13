@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: 61578fe535462184698bc298526eb08b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1400770785596020160
+    second: SHuman-Dash_0
+  - first:
+      213: 5234304307341091084
+    second: SHuman-Dash_1
+  - first:
+      213: 8779792671316428091
+    second: SHuman-Dash_2
+  - first:
+      213: -1804361679051804489
+    second: SHuman-Dash_3
+  - first:
+      213: 8901387145320338883
+    second: SHuman-Dash_4
+  - first:
+      213: 6298823094490628890
+    second: SHuman-Dash_5
+  - first:
+      213: 6188467362004792118
+    second: SHuman-Dash_6
+  - first:
+      213: 7473282676703718246
+    second: SHuman-Dash_7
+  - first:
+      213: 1430447379710482280
+    second: SHuman-Dash_8
+  - first:
+      213: -7670434331379705235
+    second: SHuman-Dash_9
+  - first:
+      213: -4672108432508938012
+    second: SHuman-Dash_10
+  - first:
+      213: 4873394108273796470
+    second: SHuman-Dash_11
+  - first:
+      213: -3510703667302343120
+    second: SHuman-Dash_12
+  - first:
+      213: -5965359919548964041
+    second: SHuman-Dash_13
+  - first:
+      213: 5338588666730311166
+    second: SHuman-Dash_14
+  - first:
+      213: 231799038580292059
+    second: SHuman-Dash_15
+  - first:
+      213: 6559575778489183080
+    second: SHuman-Dash_16
+  - first:
+      213: -1615351855981064542
+    second: SHuman-Dash_17
+  - first:
+      213: 4666581384098040295
+    second: SHuman-Dash_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SHuman-Dash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6913583f5fa83d4c95d9413ee8ffc64
+      internalID: 1400770785596020160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHuman-Dash_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f01068c337f1d4d986cd4707ce3d92
+      internalID: 5234304307341091084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHuman-Dash_2
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675dc24d0eed38040a82088e0c31c1b1
+      internalID: 8779792671316428091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHuman-Dash_3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 0
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40681e6b484e8314481bd6e19c15ec07
+      internalID: -1804361679051804489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHuman-Dash_6
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 0
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f52cd0e4f7ddb499a5ed43d0b4a851
+      internalID: 6188467362004792118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHuman-Dash_7
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 0
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c90595a3d526f45b674d0f647e69ca
+      internalID: 7473282676703718246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHuman-Dash_8
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 0
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2813fefcd19e949ac623341ee7adb0
+      internalID: 1430447379710482280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHuman-Dash_9
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 0
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6e61dc4f7c69441a5e4b6ec055961b
+      internalID: -7670434331379705235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHuman-Dash_10
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9631b2e36388b684f8d20f256fdb99a6
+      internalID: -4672108432508938012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHuman-Dash_15
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 0
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787d580f7c598ef468db7836ec9a5401
+      internalID: 231799038580292059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d05ecc7fc68bdc242bad6e51a8edb0b6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":42.0,"y":51.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SHuman-Dash_0: 1400770785596020160
+      SHuman-Dash_1: 5234304307341091084
+      SHuman-Dash_10: -4672108432508938012
+      SHuman-Dash_11: 1520436285
+      SHuman-Dash_12: -1345431129
+      SHuman-Dash_13: -1220452983
+      SHuman-Dash_14: -379471744
+      SHuman-Dash_15: 231799038580292059
+      SHuman-Dash_16: 1358576172
+      SHuman-Dash_17: -1393428991
+      SHuman-Dash_18: 703803629
+      SHuman-Dash_2: 8779792671316428091
+      SHuman-Dash_3: -1804361679051804489
+      SHuman-Dash_4: 535808663
+      SHuman-Dash_5: -548287256
+      SHuman-Dash_6: 6188467362004792118
+      SHuman-Dash_7: 7473282676703718246
+      SHuman-Dash_8: 1430447379710482280
+      SHuman-Dash_9: -7670434331379705235
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,551 @@
+fileFormatVersion: 2
+guid: a06fdf8f6e1f6a74b9670c3376a2fb3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3968208086600766666
+    second: BIGREDBOSS_SKILL2_0
+  - first:
+      213: 2207444390917719773
+    second: BIGREDBOSS_SKILL2_1
+  - first:
+      213: -8939417281381082082
+    second: BIGREDBOSS_SKILL2_2
+  - first:
+      213: -7336636850639517658
+    second: BIGREDBOSS_SKILL2_3
+  - first:
+      213: 7745673892229659800
+    second: BIGREDBOSS_SKILL2_4
+  - first:
+      213: -400292472010629716
+    second: BIGREDBOSS_SKILL2_5
+  - first:
+      213: 7059503450639351148
+    second: BIGREDBOSS_SKILL2_6
+  - first:
+      213: -8967099255623122405
+    second: BIGREDBOSS_SKILL2_7
+  - first:
+      213: 8034929847831653705
+    second: BIGREDBOSS_SKILL2_8
+  - first:
+      213: 5719400553262874700
+    second: BIGREDBOSS_SKILL2_9
+  - first:
+      213: 6377496079536412090
+    second: BIGREDBOSS_SKILL2_10
+  - first:
+      213: -293910135599748202
+    second: BIGREDBOSS_SKILL2_11
+  - first:
+      213: -291471114069467348
+    second: BIGREDBOSS_SKILL2_12
+  - first:
+      213: 4891140277779644378
+    second: BIGREDBOSS_SKILL2_13
+  - first:
+      213: -2981359630379124878
+    second: BIGREDBOSS_SKILL2_14
+  - first:
+      213: 4107586227021444023
+    second: BIGREDBOSS_SKILL2_15
+  - first:
+      213: 3460606559920830561
+    second: BIGREDBOSS_SKILL2_16
+  - first:
+      213: -4608518659871974974
+    second: BIGREDBOSS_SKILL2_17
+  - first:
+      213: -4782362144135895290
+    second: BIGREDBOSS_SKILL2_18
+  - first:
+      213: -3153904826958226740
+    second: BIGREDBOSS_SKILL2_19
+  - first:
+      213: 3065629888802055848
+    second: BIGREDBOSS_SKILL2_20
+  - first:
+      213: -6225075102240953414
+    second: BIGREDBOSS_SKILL2_21
+  - first:
+      213: 6689465431511222156
+    second: BIGREDBOSS_SKILL2_22
+  - first:
+      213: -2304343136250588952
+    second: BIGREDBOSS_SKILL2_23
+  - first:
+      213: -3522209933797942527
+    second: BIGREDBOSS_SKILL2_24
+  - first:
+      213: -8387667922638015858
+    second: BIGREDBOSS_SKILL2_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BIGREDBOSS_SKILL2_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3472
+        width: 185
+        height: 244
+      alignment: 9
+      pivot: {x: 0.7, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b245b05c71ee8c0800000000000000
+      internalID: -3968208086600766666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_SKILL2_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3224
+        width: 186
+        height: 244
+      alignment: 9
+      pivot: {x: 0.717, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6441e5afa62ae10800000000000000
+      internalID: 2207444390917719773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_SKILL2_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2976
+        width: 180
+        height: 244
+      alignment: 9
+      pivot: {x: 0.735, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cda4c785fc0f380800000000000000
+      internalID: -8939417281381082082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_SKILL2_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2728
+        width: 149
+        height: 244
+      alignment: 9
+      pivot: {x: 0.707, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628479fc7a70f2a90800000000000000
+      internalID: -7336636850639517658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_SKILL2_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2480
+        width: 178
+        height: 244
+      alignment: 9
+      pivot: {x: 0.592, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cbd5cdd592e7b60800000000000000
+      internalID: 7745673892229659800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_SKILL2_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2232
+        width: 179
+        height: 244
+      alignment: 9
+      pivot: {x: 0.583, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad1b871e10e17af0800000000000000
+      internalID: -400292472010629716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_SKILL2_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1984
+        width: 178
+        height: 244
+      alignment: 9
+      pivot: {x: 0.592, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6db00a4cf468f160800000000000000
+      internalID: 7059503450639351148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_SKILL2_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1736
+        width: 195
+        height: 244
+      alignment: 9
+      pivot: {x: 0.535, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b120aea9cb67e8380800000000000000
+      internalID: -8967099255623122405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_SKILL2_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1488
+        width: 268
+        height: 244
+      alignment: 9
+      pivot: {x: 0.513, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d603f202ec18f60800000000000000
+      internalID: 8034929847831653705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_SKILL2_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1240
+        width: 299
+        height: 240
+      alignment: 9
+      pivot: {x: 0.6, y: 0.275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40086120846f5f40800000000000000
+      internalID: 5719400553262874700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_SKILL2_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 992
+        width: 324
+        height: 244
+      alignment: 9
+      pivot: {x: 0.609, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ba0b3f942dbebf0800000000000000
+      internalID: -293910135599748202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_SKILL2_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 744
+        width: 334
+        height: 243
+      alignment: 9
+      pivot: {x: 0.617, y: 0.272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf39a31b22d0e340800000000000000
+      internalID: 4891140277779644378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_SKILL2_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 496
+        width: 332
+        height: 243
+      alignment: 9
+      pivot: {x: 0.618, y: 0.272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168b777c45b860030800000000000000
+      internalID: 3460606559920830561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_SKILL2_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 248
+        width: 332
+        height: 243
+      alignment: 9
+      pivot: {x: 0.615, y: 0.272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccad3cd15441b34d0800000000000000
+      internalID: -3153904826958226740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_SKILL2_23
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 333
+        height: 244
+      alignment: 9
+      pivot: {x: 0.616, y: 0.271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e09c2360245500e0800000000000000
+      internalID: -2304343136250588952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6ad15ebefe9ff964e959ffbf1757fd14
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BIGREDBOSS_SKILL2_0: -3968208086600766666
+      BIGREDBOSS_SKILL2_1: 2207444390917719773
+      BIGREDBOSS_SKILL2_10: 6377496079536412090
+      BIGREDBOSS_SKILL2_11: -293910135599748202
+      BIGREDBOSS_SKILL2_12: -291471114069467348
+      BIGREDBOSS_SKILL2_13: 4891140277779644378
+      BIGREDBOSS_SKILL2_14: -2981359630379124878
+      BIGREDBOSS_SKILL2_15: 4107586227021444023
+      BIGREDBOSS_SKILL2_16: 3460606559920830561
+      BIGREDBOSS_SKILL2_17: -4608518659871974974
+      BIGREDBOSS_SKILL2_18: -4782362144135895290
+      BIGREDBOSS_SKILL2_19: -3153904826958226740
+      BIGREDBOSS_SKILL2_2: -8939417281381082082
+      BIGREDBOSS_SKILL2_20: 3065629888802055848
+      BIGREDBOSS_SKILL2_21: -6225075102240953414
+      BIGREDBOSS_SKILL2_22: 6689465431511222156
+      BIGREDBOSS_SKILL2_23: -2304343136250588952
+      BIGREDBOSS_SKILL2_24: -3522209933797942527
+      BIGREDBOSS_SKILL2_25: -8387667922638015858
+      BIGREDBOSS_SKILL2_3: -7336636850639517658
+      BIGREDBOSS_SKILL2_4: 7745673892229659800
+      BIGREDBOSS_SKILL2_5: -400292472010629716
+      BIGREDBOSS_SKILL2_6: 7059503450639351148
+      BIGREDBOSS_SKILL2_7: -8967099255623122405
+      BIGREDBOSS_SKILL2_8: 8034929847831653705
+      BIGREDBOSS_SKILL2_9: 5719400553262874700
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

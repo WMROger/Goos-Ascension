@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4446497709775108736
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4515568686860315454}
+  - component: {fileID: 5124795910226260835}
+  m_Layer: 0
+  m_Name: RuleTileCaveGenerator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4515568686860315454
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4446497709775108736}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -8.4, y: -5.9, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5124795910226260835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4446497709775108736}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c2f62b41a32d074b91d2c5807ae4331, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RuleTileCaveGenerator
+  foregroundTilemap: {fileID: 0}
+  backgroundTilemap: {fileID: 0}
+  decorationTilemap: {fileID: 0}
+  foregroundRuleTile: {fileID: 11400000, guid: 8442270f824b6f143ba8824ea47830b0, type: 2}
+  backgroundTile: {fileID: 11400000, guid: 7056af246a8f14c48a95136e83cdec40, type: 2}
+  floorDecorations:
+  - {fileID: 11400000, guid: 0040c4387dd3a7e47bccdbf98b49fbe8, type: 2}
+  - {fileID: 11400000, guid: 17e418d18b4e7da439c0433bfd10f108, type: 2}
+  - {fileID: 11400000, guid: 43f2b97f4e8fe80408c91deaec8315f3, type: 2}
+  - {fileID: 11400000, guid: dd85615aa093f3a4ba355f1137725430, type: 2}
+  - {fileID: 11400000, guid: ce1e6ebda45e2594bb95cd930d4a630b, type: 2}
+  - {fileID: 11400000, guid: fbfba59bb2c1efd4e9bfef162fcc9eb0, type: 2}
+  - {fileID: 11400000, guid: bde66fd44ef43ba428d8bad20a38bddc, type: 2}
+  - {fileID: 11400000, guid: 6094b7341fbcb5a49a8d820e5a1d57f0, type: 2}
+  - {fileID: 11400000, guid: 1bc8c3f239b405a4ca3ab78af84015f9, type: 2}
+  - {fileID: 11400000, guid: 243153ba3a107b548b5e90a0ea23d369, type: 2}
+  - {fileID: 11400000, guid: a08321796704eb24cbc673c4fa210864, type: 2}
+  - {fileID: 11400000, guid: 23a250f6cd05f1d40a2d48ec69382b76, type: 2}
+  ceilingDecorations:
+  - {fileID: 11400000, guid: 84617b5fb3767e64791ec44f7524e055, type: 2}
+  - {fileID: 11400000, guid: dc667db0e9a2c414eb41e5324db4f84c, type: 2}
+  - {fileID: 11400000, guid: 98267d7b9dcbf7d429bf307c49a4334e, type: 2}
+  - {fileID: 11400000, guid: 30640ddf6a79f544092925f7ee4b796e, type: 2}
+  floorDecorChance: 100
+  ceilingDecorChance: 20.6
+  waterfallTile: {fileID: 11400000, guid: d785ec02097e22e49bcf385b6211c62d, type: 2}
+  waterfallChance: 2.1
+  startPos: {x: -52, y: -52}
+  width: 100
+  height: 80
+  playerSpawn: {fileID: 0}
+  safeRadius: 6
+  leverPrefab: {fileID: 5223203733861646230, guid: 3036a70e63ddeb54aaf19528655a276f, type: 3}
+  leverOffset: {x: 0, y: 0.5, z: 0}
+  secretDoorTilemap: {fileID: 0}
+  secretDoorTile: {fileID: 11400000, guid: 8442270f824b6f143ba8824ea47830b0, type: 2}
+  numberOfFloors: 5
+  holeWidth: 5
+  doubleJumpHeight: 4
+  stepWidth: 4
+  obstacleChance: 20
+  iterations: 5
+  waterPrefab: {fileID: 6273298642273299133, guid: 6c1f16ffbf0e032468507fd41e012718, type: 3}
+  waterLevel: 12
+  waterScaleAdjuster: {x: 0.0526, y: 1}
+  waterPositionOffset: {x: -50, y: -6, z: 0}
+  waterSortingLayer: Water
+  lanternPrefab: {fileID: 2675061012354617854, guid: aea1b5834a467854a85f2058ce8dc8f6, type: 3}
+  lanternChance: 5
+  lanternOffset: {x: 0, y: 0, z: 0}
+  minLanternDistance: 4
+  mobPrefabs:
+  - {fileID: 4187707842346551434, guid: ae3afc51094c696458f08554f59d4189, type: 3}
+  - {fileID: 8017643231737877559, guid: fbfa8683489a79448952caf90e4e79d3, type: 3}
+  mobsPerFloor: 3
+  mobOffset: {x: 0, y: 3, z: 0}
+  minMobDistance: 8

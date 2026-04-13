@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - PlayerProjectile
+  - Ground
+  - Enemy
+  - Water
+  - PlayerAttack
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Ground
+  - Projectile
+  - Player
+  - Enemy
+  - Boss
+  - Explosion
+  - PlayerAttack
+  - BossProjectile
+  - Floating Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 20262407
+    locked: 0
+  - name: Background_Land
+    uniqueID: 3731224211
+    locked: 0
+  - name: Background_Land2
+    uniqueID: 3428248901
+    locked: 0
+  - name: Background_Lights
+    uniqueID: 4090215513
+    locked: 0
+  - name: Water
+    uniqueID: 333530293
+    locked: 0
+  - name: PlayerLayer
+    uniqueID: 1312363523
+    locked: 0
+  - name: Ground
+    uniqueID: 3884044419
+    locked: 0
+  - name: Enemy
+    uniqueID: 2192585099
+    locked: 0
+  - name: UI
+    uniqueID: 155372963
+    locked: 0
+  - name: EnemyUI
+    uniqueID: 3363660689
+    locked: 0
+  - name: Player
+    uniqueID: 2169026021
+    locked: 0
+  m_RenderingLayers:
+  - Default

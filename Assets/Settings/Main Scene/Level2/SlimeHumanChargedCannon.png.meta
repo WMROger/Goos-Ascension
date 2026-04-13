@@ -1,0 +1,748 @@
+fileFormatVersion: 2
+guid: 360c3f608a0673a4ea8a14fa7c8e894c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7727449260844427758
+    second: SlimeHumanChargedCannon_0
+  - first:
+      213: 8642707126042099982
+    second: SlimeHumanChargedCannon_1
+  - first:
+      213: -5671716235857897564
+    second: SlimeHumanChargedCannon_2
+  - first:
+      213: 6912520316749371642
+    second: SlimeHumanChargedCannon_3
+  - first:
+      213: 4780659968067906419
+    second: SlimeHumanChargedCannon_4
+  - first:
+      213: 8025488820064022641
+    second: SlimeHumanChargedCannon_5
+  - first:
+      213: -3802961755135257845
+    second: SlimeHumanChargedCannon_6
+  - first:
+      213: -4616668405873376707
+    second: SlimeHumanChargedCannon_7
+  - first:
+      213: -7185830530218188266
+    second: SlimeHumanChargedCannon_8
+  - first:
+      213: 7383803562664867979
+    second: SlimeHumanChargedCannon_9
+  - first:
+      213: -5173006297697093112
+    second: SlimeHumanChargedCannon_10
+  - first:
+      213: -2198086209668546977
+    second: SlimeHumanChargedCannon_11
+  - first:
+      213: -3733519483409008651
+    second: SlimeHumanChargedCannon_12
+  - first:
+      213: -8832087382776810972
+    second: SlimeHumanChargedCannon_13
+  - first:
+      213: -5186886761211394304
+    second: SlimeHumanChargedCannon_14
+  - first:
+      213: -1399099518357266531
+    second: SlimeHumanChargedCannon_15
+  - first:
+      213: 8593706806633914496
+    second: SlimeHumanChargedCannon_16
+  - first:
+      213: -4238260407028271129
+    second: SlimeHumanChargedCannon_17
+  - first:
+      213: 5337214276705293530
+    second: SlimeHumanChargedCannon_18
+  - first:
+      213: 6845026414743588515
+    second: SlimeHumanChargedCannon_19
+  - first:
+      213: -6954604774484033940
+    second: SlimeHumanChargedCannon_20
+  - first:
+      213: -6227151663677495390
+    second: SlimeHumanChargedCannon_21
+  - first:
+      213: -1418656069288813641
+    second: SlimeHumanChargedCannon_22
+  - first:
+      213: -1106379578240754935
+    second: SlimeHumanChargedCannon_23
+  - first:
+      213: 872191052673172367
+    second: SlimeHumanChargedCannon_24
+  - first:
+      213: 5892078551120281934
+    second: SlimeHumanChargedCannon_25
+  - first:
+      213: -974848057872368414
+    second: SlimeHumanChargedCannon_26
+  - first:
+      213: 8932417238318599128
+    second: SlimeHumanChargedCannon_27
+  - first:
+      213: 8519916162953130579
+    second: SlimeHumanChargedCannon_28
+  - first:
+      213: -1646510196278493
+    second: SlimeHumanChargedCannon_29
+  - first:
+      213: 3046710867466481384
+    second: SlimeHumanChargedCannon_30
+  - first:
+      213: 8765266695701064397
+    second: SlimeHumanChargedCannon_31
+  - first:
+      213: -7274455804738970701
+    second: SlimeHumanChargedCannon_32
+  - first:
+      213: -6331912024690549532
+    second: SlimeHumanChargedCannon_33
+  - first:
+      213: 5231124694284848411
+    second: SlimeHumanChargedCannon_34
+  - first:
+      213: -5357452955453207682
+    second: SlimeHumanChargedCannon_35
+  - first:
+      213: 7336134731268856324
+    second: SlimeHumanChargedCannon_36
+  - first:
+      213: 3743400608112707445
+    second: SlimeHumanChargedCannon_37
+  - first:
+      213: 1424260547937932225
+    second: SlimeHumanChargedCannon_38
+  - first:
+      213: -6668836177016573347
+    second: SlimeHumanChargedCannon_39
+  - first:
+      213: -9035152857152729889
+    second: SlimeHumanChargedCannon_40
+  - first:
+      213: -8611802484837761683
+    second: SlimeHumanChargedCannon_41
+  - first:
+      213: 8012047479960496253
+    second: SlimeHumanChargedCannon_42
+  - first:
+      213: 4309638530710554720
+    second: SlimeHumanChargedCannon_43
+  - first:
+      213: -1491792082838743091
+    second: SlimeHumanChargedCannon_44
+  - first:
+      213: 1352823411471501444
+    second: SlimeHumanChargedCannon_45
+  - first:
+      213: -8344371549234550158
+    second: SlimeHumanChargedCannon_46
+  - first:
+      213: 4733127179185728327
+    second: SlimeHumanChargedCannon_47
+  - first:
+      213: 1881841333193848716
+    second: SlimeHumanChargedCannon_48
+  - first:
+      213: -1922378938989832299
+    second: SlimeHumanChargedCannon_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SlimeHumanChargedCannon_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1745
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e010a71175011f770800000000000000
+      internalID: 8642707126042099982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeHumanChargedCannon_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1648
+        width: 82
+        height: 55
+      alignment: 9
+      pivot: {x: 0.2, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8548e9a943eef50800000000000000
+      internalID: 6912520316749371642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeHumanChargedCannon_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1551
+        width: 74
+        height: 55
+      alignment: 9
+      pivot: {x: 0.29, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b2e9479e0585240800000000000000
+      internalID: 4780659968067906419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeHumanChargedCannon_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1455
+        width: 71
+        height: 54
+      alignment: 9
+      pivot: {x: 0.33, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0354c2ce6a293bc0800000000000000
+      internalID: -3802961755135257845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeHumanChargedCannon_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1358
+        width: 58
+        height: 54
+      alignment: 9
+      pivot: {x: 0.46, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3206268b8c4eefb0800000000000000
+      internalID: -4616668405873376707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeHumanChargedCannon_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1261
+        width: 58
+        height: 54
+      alignment: 9
+      pivot: {x: 0.46, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6122036743dc64c90800000000000000
+      internalID: -7185830530218188266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeHumanChargedCannon_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1164
+        width: 55
+        height: 54
+      alignment: 9
+      pivot: {x: 0.43, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8837eb183a887660800000000000000
+      internalID: 7383803562664867979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeHumanChargedCannon_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1067
+        width: 53
+        height: 54
+      alignment: 9
+      pivot: {x: 0.41, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80af7e41e2ac538b0800000000000000
+      internalID: -5173006297697093112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeHumanChargedCannon_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 970
+        width: 49
+        height: 54
+      alignment: 9
+      pivot: {x: 0.36, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e750ffc34de71e0800000000000000
+      internalID: -2198086209668546977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeHumanChargedCannon_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 873
+        width: 370
+        height: 67
+      alignment: 9
+      pivot: {x: 0.23, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7f7659fcfdf2cc0800000000000000
+      internalID: -3733519483409008651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeHumanChargedCannon_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 776
+        width: 375
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f15ea9666659ce0800000000000000
+      internalID: -1399099518357266531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeHumanChargedCannon_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 679
+        width: 380
+        height: 66
+      alignment: 9
+      pivot: {x: 0.20263158, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae05f8f14b6efe50800000000000000
+      internalID: 6845026414743588515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeHumanChargedCannon_23
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 582
+        width: 387
+        height: 64
+      alignment: 9
+      pivot: {x: 0.21098192, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b963ca2a955a0f0800000000000000
+      internalID: -1106379578240754935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeHumanChargedCannon_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 485
+        width: 365
+        height: 61
+      alignment: 9
+      pivot: {x: 0.19726028, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bb1a8f1862afff0800000000000000
+      internalID: -1646510196278493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeHumanChargedCannon_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 388
+        width: 379
+        height: 67
+      alignment: 9
+      pivot: {x: 0.20580475, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5770a8a050b33f330800000000000000
+      internalID: 3743400608112707445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeHumanChargedCannon_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 291
+        width: 83
+        height: 68
+      alignment: 9
+      pivot: {x: 0.83, y: 0.40441176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d3b6f644bbc7880800000000000000
+      internalID: -8611802484837761683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeHumanChargedCannon_45
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 193
+        width: 46
+        height: 55
+      alignment: 9
+      pivot: {x: 0.7, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4884794a9b136c210800000000000000
+      internalID: 1352823411471501444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeHumanChargedCannon_47
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 96
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bac10a7127fa140800000000000000
+      internalID: 4733127179185728327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeHumanChargedCannon_49
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59791d94a865255e0800000000000000
+      internalID: -1922378938989832299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8a68346596fa49d458c306018b909327
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SlimeHumanChargedCannon_0: -7727449260844427758
+      SlimeHumanChargedCannon_1: 8642707126042099982
+      SlimeHumanChargedCannon_10: -5173006297697093112
+      SlimeHumanChargedCannon_11: -2198086209668546977
+      SlimeHumanChargedCannon_12: -3733519483409008651
+      SlimeHumanChargedCannon_13: -8832087382776810972
+      SlimeHumanChargedCannon_14: -5186886761211394304
+      SlimeHumanChargedCannon_15: -1399099518357266531
+      SlimeHumanChargedCannon_16: 8593706806633914496
+      SlimeHumanChargedCannon_17: -4238260407028271129
+      SlimeHumanChargedCannon_18: 5337214276705293530
+      SlimeHumanChargedCannon_19: 6845026414743588515
+      SlimeHumanChargedCannon_2: -5671716235857897564
+      SlimeHumanChargedCannon_20: -6954604774484033940
+      SlimeHumanChargedCannon_21: -6227151663677495390
+      SlimeHumanChargedCannon_22: -1418656069288813641
+      SlimeHumanChargedCannon_23: -1106379578240754935
+      SlimeHumanChargedCannon_24: 872191052673172367
+      SlimeHumanChargedCannon_25: 5892078551120281934
+      SlimeHumanChargedCannon_26: -974848057872368414
+      SlimeHumanChargedCannon_27: 8932417238318599128
+      SlimeHumanChargedCannon_28: 8519916162953130579
+      SlimeHumanChargedCannon_29: -1646510196278493
+      SlimeHumanChargedCannon_3: 6912520316749371642
+      SlimeHumanChargedCannon_30: 3046710867466481384
+      SlimeHumanChargedCannon_31: 8765266695701064397
+      SlimeHumanChargedCannon_32: -7274455804738970701
+      SlimeHumanChargedCannon_33: -6331912024690549532
+      SlimeHumanChargedCannon_34: 5231124694284848411
+      SlimeHumanChargedCannon_35: -5357452955453207682
+      SlimeHumanChargedCannon_36: 7336134731268856324
+      SlimeHumanChargedCannon_37: 3743400608112707445
+      SlimeHumanChargedCannon_38: 1424260547937932225
+      SlimeHumanChargedCannon_39: -6668836177016573347
+      SlimeHumanChargedCannon_4: 4780659968067906419
+      SlimeHumanChargedCannon_40: -9035152857152729889
+      SlimeHumanChargedCannon_41: -8611802484837761683
+      SlimeHumanChargedCannon_42: 8012047479960496253
+      SlimeHumanChargedCannon_43: 4309638530710554720
+      SlimeHumanChargedCannon_44: -1491792082838743091
+      SlimeHumanChargedCannon_45: 1352823411471501444
+      SlimeHumanChargedCannon_46: -8344371549234550158
+      SlimeHumanChargedCannon_47: 4733127179185728327
+      SlimeHumanChargedCannon_48: 1881841333193848716
+      SlimeHumanChargedCannon_49: -1922378938989832299
+      SlimeHumanChargedCannon_5: 8025488820064022641
+      SlimeHumanChargedCannon_6: -3802961755135257845
+      SlimeHumanChargedCannon_7: -4616668405873376707
+      SlimeHumanChargedCannon_8: -7185830530218188266
+      SlimeHumanChargedCannon_9: 7383803562664867979
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

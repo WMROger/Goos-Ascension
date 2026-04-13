@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: c7f132f2cde7e074e9f2a1611c8ed3d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7861422438586385470
+    second: BIGREDBOSS_IDLE_0
+  - first:
+      213: 8045802418964897251
+    second: BIGREDBOSS_IDLE_1
+  - first:
+      213: 6943728679883702552
+    second: BIGREDBOSS_IDLE_2
+  - first:
+      213: -5902161455506519615
+    second: BIGREDBOSS_IDLE_3
+  - first:
+      213: 3847971007431006723
+    second: BIGREDBOSS_IDLE_4
+  - first:
+      213: 9209779869922811817
+    second: BIGREDBOSS_IDLE_5
+  - first:
+      213: 703798838883131976
+    second: BIGREDBOSS_IDLE_6
+  - first:
+      213: -5710514184785582022
+    second: BIGREDBOSS_IDLE_7
+  - first:
+      213: 5198886396386969452
+    second: BIGREDBOSS_IDLE_8
+  - first:
+      213: -7197361151435680589
+    second: BIGREDBOSS_IDLE_9
+  - first:
+      213: 5649566687831889761
+    second: BIGREDBOSS_IDLE_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BIGREDBOSS_IDLE_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2480
+        width: 209
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e340a396e02691d60800000000000000
+      internalID: 7861422438586385470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_IDLE_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2232
+        width: 209
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed916bebae68af60800000000000000
+      internalID: 8045802418964897251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_IDLE_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1984
+        width: 219
+        height: 132
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8110925e1741d5060800000000000000
+      internalID: 6943728679883702552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_IDLE_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1736
+        width: 223
+        height: 132
+      alignment: 9
+      pivot: {x: 0.46, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9088d5d6f471ea0800000000000000
+      internalID: -5902161455506519615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_IDLE_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1488
+        width: 232
+        height: 132
+      alignment: 9
+      pivot: {x: 0.46, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a5deb6e3db66530800000000000000
+      internalID: 3847971007431006723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_IDLE_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1240
+        width: 223
+        height: 132
+      alignment: 9
+      pivot: {x: 0.465, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afda460ff5bfcf70800000000000000
+      internalID: 9209779869922811817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_IDLE_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 992
+        width: 217
+        height: 132
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84226f8a05564c900800000000000000
+      internalID: 703798838883131976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_IDLE_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 744
+        width: 220
+        height: 132
+      alignment: 9
+      pivot: {x: 0.49, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38a603ca9d20c0b0800000000000000
+      internalID: -5710514184785582022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_IDLE_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 496
+        width: 219
+        height: 132
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c678144f1a7262840800000000000000
+      internalID: 5198886396386969452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_IDLE_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 248
+        width: 219
+        height: 132
+      alignment: 9
+      pivot: {x: 0.49, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4da708a26dd1c90800000000000000
+      internalID: -7197361151435680589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BIGREDBOSS_IDLE_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 209
+        height: 132
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167991b48fa476e40800000000000000
+      internalID: 5649566687831889761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 534e86539641cd7408bfc7ad223a2dfc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BIGREDBOSS_IDLE_0: 7861422438586385470
+      BIGREDBOSS_IDLE_1: 8045802418964897251
+      BIGREDBOSS_IDLE_10: 5649566687831889761
+      BIGREDBOSS_IDLE_2: 6943728679883702552
+      BIGREDBOSS_IDLE_3: -5902161455506519615
+      BIGREDBOSS_IDLE_4: 3847971007431006723
+      BIGREDBOSS_IDLE_5: 9209779869922811817
+      BIGREDBOSS_IDLE_6: 703798838883131976
+      BIGREDBOSS_IDLE_7: -5710514184785582022
+      BIGREDBOSS_IDLE_8: 5198886396386969452
+      BIGREDBOSS_IDLE_9: -7197361151435680589
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

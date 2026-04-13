@@ -1,0 +1,26 @@
+Water prefabs vs grid tilemap water
+====================================
+
+Why grid "Tilemap_Water" works but a dragged prefab might not:
+
+1) Tag + layer
+   - PlayerMovement treats volumes as water if Tag is "Water" OR layer is "Water".
+   - Tilemap_Water in scenes is usually set to Tag: Water + Water layer.
+   - These prefabs use Tag: Water and the Water layer — match your grid setup.
+
+2) Trigger volume must overlap the player
+   - Tilemap water uses TilemapCollider2D over every painted cell = large overlap.
+   - WaterReflection / WaterSimple use a BoxCollider2D (~1 unit tall in local space).
+     Move/scale the object so the GREEN collider gizmo actually covers the player.
+
+3) Default transform
+   - Prefab root is saved at (0,0,-1) so new instances spawn at the scene origin.
+     Position the whole object where your pool is (tilemap water stays under Grid at 0,0).
+
+4) BoxCollider offset
+   - WaterReflection has a wide BoxCollider offset to match the generated mesh width.
+     Collider is centered on the mesh; move the whole GameObject, not only the sprite.
+
+5) Buoyancy Effector
+   - Collider Mask often excludes Player; slime/human behavior is mostly from PlayerMovement.
+   - If you add Player to the mask, both forms get buoyancy from the effector.
